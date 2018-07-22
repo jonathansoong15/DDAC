@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ChatbotDatabaseConnectionString-Web.config Connection String" description="ChatbotDatabaseConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=ddacassignmenttp034540.database.windows.net;Initial Catalog=DDACAssignment;User ID=jonathan;Password=ChatbotDatabase123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jonathansoong\\source\\repos\\DDACAssignment\\WebApplication1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatbotDatabaseConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
